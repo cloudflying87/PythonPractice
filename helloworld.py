@@ -1,2 +1,2 @@
 print('Hello World')
-print('Now we can do it together')
+print('Now we can do ther')
